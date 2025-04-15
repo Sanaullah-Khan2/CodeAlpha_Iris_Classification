@@ -3,7 +3,6 @@
 
 This project uses a simple machine learning model to classify Iris flowers into three species — Setosa, Versicolor, and Virginica — based on their sepal and petal dimensions.
 
-
  Task Description:
  Iris flowers can be identified using four features:
   . Sepal Length
@@ -11,9 +10,6 @@ This project uses a simple machine learning model to classify Iris flowers into 
   . Petal Length
   . Petal Width
 The objective is to train a machine learning model that can predict the species of an Iris flower based on these measurements.
-
-
-
 
 Technologies Used:
 . Python
@@ -37,8 +33,6 @@ Project Workflow:
 5. Model Training using Logistic Regression
 6. Model Evaluation using accuracy score, classification report, and confusion matrix
 7. Model Saving using joblib
-
-...
 
 Results:
 . The model achieved high accuracy on the test set.
